@@ -95,7 +95,7 @@ export default function Header() {
             />
 
             <div>
-              <ul className="flex gap-10 font-cabin text-14px items-center cursor-pointer px-3">
+              <ul className="flex gap-10 font-cabin text-[11px] items-center cursor-pointer px-3">
                 <li>
                   <div className="relative inline-block group">
                     <p className="">MEN</p>
