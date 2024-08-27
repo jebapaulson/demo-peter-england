@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.70b96402.css",
-    "main.js": "/static/js/main.0d872117.js",
-    "index.html": "/index.html",
-    "main.70b96402.css.map": "/static/css/main.70b96402.css.map",
-    "main.0d872117.js.map": "/static/js/main.0d872117.js.map"
+    "main.css": "/demo-peter-england/static/css/main.70b96402.css",
+    "main.js": "/demo-peter-england/static/js/main.0d872117.js",
+    "index.html": "/demo-peter-england/index.html",
+    "main.70b96402.css.map": "/demo-peter-england/static/css/main.70b96402.css.map",
+    "main.0d872117.js.map": "/demo-peter-england/static/js/main.0d872117.js.map"
   },
   "entrypoints": [
     "static/css/main.70b96402.css",
