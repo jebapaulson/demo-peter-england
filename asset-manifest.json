@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.js": "/demo-peter-england/static/js/main.31d6cfe0.js",
-    "index.html": "/demo-peter-england/index.html"
+    "main.css": "/demo-peter-england/static/css/main.36246eb7.css",
+    "main.js": "/demo-peter-england/static/js/main.e21858c7.js",
+    "index.html": "/demo-peter-england/index.html",
+    "main.36246eb7.css.map": "/demo-peter-england/static/css/main.36246eb7.css.map",
+    "main.e21858c7.js.map": "/demo-peter-england/static/js/main.e21858c7.js.map"
   },
   "entrypoints": [
-    "static/js/main.31d6cfe0.js"
+    "static/css/main.36246eb7.css",
+    "static/js/main.e21858c7.js"
   ]
 }
